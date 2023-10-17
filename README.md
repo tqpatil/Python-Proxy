@@ -1,2 +1,2 @@
 # Python-Proxy
-Creating a proxy with python. 
+Creating a functioning proxy with python. 
